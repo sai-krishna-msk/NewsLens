@@ -1,0 +1,837 @@
+{
+    "BBC News": {
+        "neutral": 0.8002403740641437,
+        "positive": 0.7237680203774396,
+        "negative": 0.8045510947704315,
+        "words": {
+            "Richard Bilton": {
+                "neutral": 0.9071846604347229,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    0
+                ]
+            },
+            "B": {
+                "neutral": 0.6662863716483116,
+                "positive": "",
+                "negative": 0.7189610004425049,
+                "indices": [
+                    2,
+                    6,
+                    7
+                ]
+            },
+            "iden": {
+                "neutral": 0.6696383655071259,
+                "positive": "",
+                "negative": 0.947003185749054,
+                "indices": [
+                    2,
+                    6,
+                    7
+                ]
+            },
+            "Americans": {
+                "neutral": 0.5441555976867676,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    2
+                ]
+            },
+            "State of the Union": {
+                "neutral": 0.7501184940338135,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    2
+                ]
+            },
+            "Georgia Court of Appeals": {
+                "neutral": 0.9668370485305786,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    4
+                ]
+            },
+            "Trump": {
+                "neutral": 0.729159164428711,
+                "positive": 0.7234995126724243,
+                "negative": 0.8863538727164268,
+                "indices": [
+                    4,
+                    6,
+                    7
+                ]
+            },
+            "Willis": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.967048168182373,
+                "indices": [
+                    4
+                ]
+            },
+            "US": {
+                "neutral": 0.8551982641220093,
+                "positive": 0.5529235601425171,
+                "negative": "",
+                "indices": [
+                    5,
+                    7
+                ]
+            },
+            "Get": {
+                "neutral": 0.8598514199256897,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Donald Trump": {
+                "neutral": 0.5539232492446899,
+                "positive": 0.8821887969970703,
+                "negative": 0.8988139629364014,
+                "indices": [
+                    6,
+                    7
+                ]
+            },
+            "Joe Biden": {
+                "neutral": 0.8020037412643433,
+                "positive": "",
+                "negative": 0.9367310404777527,
+                "indices": [
+                    6,
+                    7
+                ]
+            },
+            "American Samoa": {
+                "neutral": 0.8595013618469238,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6,
+                    7
+                ]
+            },
+            "Florida": {
+                "neutral": 0.9727425575256348,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Alabama": {
+                "neutral": 0.5720720887184143,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Texas": {
+                "neutral": 0.8075313568115234,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "California": {
+                "neutral": 0.8571693301200867,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6,
+                    7
+                ]
+            },
+            "Republican": {
+                "neutral": 0.6735340356826782,
+                "positive": 0.699300229549408,
+                "negative": 0.7826105952262878,
+                "indices": [
+                    6
+                ]
+            },
+            "Nikki Haley": {
+                "neutral": 0.7046464681625366,
+                "positive": "",
+                "negative": 0.6452012260754904,
+                "indices": [
+                    6,
+                    7
+                ]
+            },
+            "North Carolina": {
+                "neutral": 0.9174038648605347,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Virginia": {
+                "neutral": 0.8430777430534363,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Electability": {
+                "neutral": "",
+                "positive": 0.8255302906036377,
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Haley": {
+                "neutral": 0.8188227415084839,
+                "positive": 0.755484476685524,
+                "negative": 0.7281869649887085,
+                "indices": [
+                    6,
+                    7
+                ]
+            },
+            "Republicans": {
+                "neutral": 0.6722690463066101,
+                "positive": 0.7022659182548523,
+                "negative": 0.5736955404281616,
+                "indices": [
+                    6
+                ]
+            },
+            "Hillary Clinton": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.8049287796020508,
+                "indices": [
+                    6
+                ]
+            },
+            "Vermont": {
+                "neutral": 0.7719667792320252,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6,
+                    7
+                ]
+            },
+            "South Carolina": {
+                "neutral": 0.8839285373687744,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Super Tuesday": {
+                "neutral": 0.8926394383112589,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6,
+                    7
+                ]
+            },
+            "Burlington": {
+                "neutral": 0.8773168325424194,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Phil Scott": {
+                "neutral": "",
+                "positive": 0.6522009968757629,
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Democrats": {
+                "neutral": 0.6334913372993469,
+                "positive": 0.6667323708534241,
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Super": {
+                "neutral": 0.9164156913757324,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "South Carolinian": {
+                "neutral": 0.8731008172035217,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Gaza": {
+                "neutral": 0.7617651224136353,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Michigan": {
+                "neutral": 0.8775873482227325,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Minnesota": {
+                "neutral": 0.9337372779846191,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Minneapolis": {
+                "neutral": 0.9224374890327454,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "MN": {
+                "neutral": 0.9541856050491333,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "As": {
+                "neutral": 0.924072265625,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "ma Nizam": {
+                "neutral": 0.9457491040229797,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Pro": {
+                "neutral": 0.8705316185951233,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Washington": {
+                "neutral": 0.9702237844467163,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "anti": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.7679293751716614,
+                "indices": [
+                    6
+                ]
+            },
+            "Getty Images": {
+                "neutral": 0.9356490969657898,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Anthony Zurcher": {
+                "neutral": 0.5638148188591003,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "American": {
+                "neutral": 0.9029449820518494,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "UK": {
+                "neutral": 0.9595290422439575,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    6
+                ]
+            },
+            "Mitch McConnell": {
+                "neutral": "",
+                "positive": 0.6834787130355835,
+                "negative": "",
+                "indices": [
+                    7
+                ]
+            },
+            "Senate": {
+                "neutral": 0.7618076205253601,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    7
+                ]
+            }
+        }
+    },
+    "The Verge": {
+        "neutral": 0.8307647808738376,
+        "positive": 0.8543011695146561,
+        "negative": "",
+        "words": {
+            "Joe B": {
+                "neutral": 0.8624332547187805,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "Donald Trump": {
+                "neutral": 0.761860191822052,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "B": {
+                "neutral": 0.8874795436859131,
+                "positive": 0.7758613228797913,
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "iden": {
+                "neutral": 0.88249671459198,
+                "positive": 0.8021610975265503,
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "US Capitol": {
+                "neutral": 0.9865177273750305,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "Super Tuesday": {
+                "neutral": 0.9585461020469666,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "Trump": {
+                "neutral": 0.7352556586265564,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "White House": {
+                "neutral": 0.621846079826355,
+                "positive": 0.940005898475647,
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "CHIPS and Science Act": {
+                "neutral": "",
+                "positive": 0.8991763591766357,
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "State of the Union": {
+                "neutral": 0.9730660021305084,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "YouTube": {
+                "neutral": 0.483032763004303,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "X": {
+                "neutral": 0.47720661759376526,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "Facebook": {
+                "neutral": 0.4611087143421173,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "Republican": {
+                "neutral": 0.9457870721817017,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "Katie Britt": {
+                "neutral": 0.8708028793334961,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            },
+            "R": {
+                "neutral": 0.9713687896728516,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    1
+                ]
+            }
+        }
+    },
+    "Gizmodo.com": {
+        "neutral": 0.7801380111620977,
+        "positive": 0.7474684847725762,
+        "negative": 0.7792436342972976,
+        "words": {
+            "Donald Trump": {
+                "neutral": 0.48578280210494995,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    3
+                ]
+            },
+            "Truth Social": {
+                "neutral": 0.5638585090637207,
+                "positive": 0.7429651021957397,
+                "negative": "",
+                "indices": [
+                    3
+                ]
+            },
+            "Trump": {
+                "neutral": 0.6474623878796896,
+                "positive": 0.8302010893821716,
+                "negative": 0.833594696862357,
+                "indices": [
+                    3
+                ]
+            },
+            "English": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.7467509508132935,
+                "indices": [
+                    3
+                ]
+            },
+            "Digital World Acquisition": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.6117907762527466,
+                "indices": [
+                    3
+                ]
+            },
+            "DWAC": {
+                "neutral": 0.7457776665687561,
+                "positive": "",
+                "negative": 0.5755940675735474,
+                "indices": [
+                    3
+                ]
+            },
+            "Trump Media and Technology Group": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.6631734371185303,
+                "indices": [
+                    3
+                ]
+            },
+            "New York": {
+                "neutral": 0.9745142459869385,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    3
+                ]
+            },
+            "Let": {
+                "neutral": 0.8989242315292358,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    3
+                ]
+            },
+            "The New York Times": {
+                "neutral": 0.9605166912078857,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    3
+                ]
+            },
+            "SEC": {
+                "neutral": 0.9367615381876627,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    3
+                ]
+            },
+            "Trump Media": {
+                "neutral": "",
+                "positive": 0.5217875838279724,
+                "negative": "",
+                "indices": [
+                    3
+                ]
+            },
+            "Big Tech": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.9313340783119202,
+                "indices": [
+                    3
+                ]
+            },
+            "Joe Biden": {
+                "neutral": 0.7597482204437256,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    3
+                ]
+            },
+            "B": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.7663610577583313,
+                "indices": [
+                    3
+                ]
+            }
+        }
+    },
+    "Wired": {
+        "neutral": 0.8396887108683586,
+        "positive": 0.7736867467562357,
+        "negative": 0.8303065385137286,
+        "words": {
+            "Donald Trump": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.7504960894584656,
+                "indices": [
+                    9
+                ]
+            },
+            "Trump": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.9748172461986542,
+                "indices": [
+                    9
+                ]
+            },
+            "Facebook": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.632210910320282,
+                "indices": [
+                    9
+                ]
+            },
+            "Meta": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.6825689673423767,
+                "indices": [
+                    9
+                ]
+            },
+            "Telegram": {
+                "neutral": 0.8465353488922119,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "Dry-Run": {
+                "neutral": 0.6928700804710388,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "X": {
+                "neutral": 0.8333581487337748,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "Truth Social": {
+                "neutral": 0.7174522876739502,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "Election Day": {
+                "neutral": 0.9057891964912415,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "pro": {
+                "neutral": 0.8306445479393005,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "R": {
+                "neutral": 0.8674979209899902,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "David Clements": {
+                "neutral": "",
+                "positive": 0.7441060543060303,
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "Clement": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.9577268958091736,
+                "indices": [
+                    9
+                ]
+            },
+            "Super Tuesday": {
+                "neutral": "",
+                "positive": "",
+                "negative": 0.8395084142684937,
+                "indices": [
+                    9
+                ]
+            },
+            "Dallas": {
+                "neutral": 0.8952615857124329,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "Gateway Pundit": {
+                "neutral": 0.8850492835044861,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "Common Cause": {
+                "neutral": 0.9077032804489136,
+                "positive": "",
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "Taylor Swift": {
+                "neutral": "",
+                "positive": 0.7741626501083374,
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            },
+            "YOU": {
+                "neutral": "",
+                "positive": 0.8027915358543396,
+                "negative": "",
+                "indices": [
+                    9
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,1065 @@
+{
+  "Richard Bilton": {
+    "neutral": 0.9071846604347229,
+    "positive": "",
+    "negative": "",
+    "indices": [0],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9071846604347229,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Joe B": {
+    "neutral": 0.8624332547187805,
+    "positive": "",
+    "negative": "",
+    "indices": [1],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.8624332547187805,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Donald Trump": {
+    "neutral": 0.6005220810572306,
+    "positive": 0.8821887969970703,
+    "negative": 0.8246550261974335,
+    "indices": [1, 3, 6, 7, 9],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.761860191822052,
+        "positive": "",
+        "negative": ""
+      },
+      "Gizmodo.com": {
+        "neutral": 0.48578280210494995,
+        "positive": "",
+        "negative": ""
+      },
+      "BBC News": {
+        "neutral": 0.5539232492446899,
+        "positive": 0.8821887969970703,
+        "negative": 0.8988139629364014
+      },
+      "Wired": { "neutral": "", "positive": "", "negative": 0.7504960894584656 }
+    }
+  },
+  "B": {
+    "neutral": 0.7768829576671124,
+    "positive": 0.7758613228797913,
+    "negative": 0.7284410119056701,
+    "indices": [1, 2, 3, 6, 7],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.8874795436859131,
+        "positive": 0.7758613228797913,
+        "negative": ""
+      },
+      "BBC News": {
+        "neutral": 0.6662863716483116,
+        "positive": "",
+        "negative": 0.7189610004425049
+      },
+      "Gizmodo.com": {
+        "neutral": "",
+        "positive": "",
+        "negative": 0.7663610577583313
+      }
+    }
+  },
+  "iden": {
+    "neutral": 0.7642420762115054,
+    "positive": 0.8021610975265503,
+    "negative": 0.947003185749054,
+    "indices": [1, 2, 6, 7],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.88249671459198,
+        "positive": 0.8021610975265503,
+        "negative": ""
+      },
+      "BBC News": {
+        "neutral": 0.6696383655071259,
+        "positive": "",
+        "negative": 0.947003185749054
+      }
+    }
+  },
+  "US Capitol": {
+    "neutral": 0.9865177273750305,
+    "positive": "",
+    "negative": "",
+    "indices": [1],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.9865177273750305,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Super Tuesday": {
+    "neutral": 0.9091161042451859,
+    "positive": "",
+    "negative": 0.8395084142684937,
+    "indices": [1, 6, 7, 9],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.9585461020469666,
+        "positive": "",
+        "negative": ""
+      },
+      "BBC News": {
+        "neutral": 0.8926394383112589,
+        "positive": "",
+        "negative": ""
+      },
+      "Wired": { "neutral": "", "positive": "", "negative": 0.8395084142684937 }
+    }
+  },
+  "Trump": {
+    "neutral": 0.7026042938232422,
+    "positive": 0.7635126039385796,
+    "negative": 0.8750369618920719,
+    "indices": [1, 3, 4, 6, 7, 9],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.7352556586265564,
+        "positive": "",
+        "negative": ""
+      },
+      "Gizmodo.com": {
+        "neutral": 0.6474623878796896,
+        "positive": 0.8302010893821716,
+        "negative": 0.833594696862357
+      },
+      "BBC News": {
+        "neutral": 0.729159164428711,
+        "positive": 0.7234995126724243,
+        "negative": 0.8863538727164268
+      },
+      "Wired": { "neutral": "", "positive": "", "negative": 0.9748172461986542 }
+    }
+  },
+  "White House": {
+    "neutral": 0.621846079826355,
+    "positive": 0.940005898475647,
+    "negative": "",
+    "indices": [1],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.621846079826355,
+        "positive": 0.940005898475647,
+        "negative": ""
+      }
+    }
+  },
+  "CHIPS and Science Act": {
+    "neutral": "",
+    "positive": 0.8991763591766357,
+    "negative": "",
+    "indices": [1],
+    "media_source": {
+      "The Verge": {
+        "neutral": "",
+        "positive": 0.8991763591766357,
+        "negative": ""
+      }
+    }
+  },
+  "State of the Union": {
+    "neutral": 0.8987501660982767,
+    "positive": "",
+    "negative": "",
+    "indices": [1, 2],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.9730660021305084,
+        "positive": "",
+        "negative": ""
+      },
+      "BBC News": {
+        "neutral": 0.7501184940338135,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "YouTube": {
+    "neutral": 0.483032763004303,
+    "positive": "",
+    "negative": "",
+    "indices": [1],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.483032763004303,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "X": {
+    "neutral": 0.7443202659487724,
+    "positive": "",
+    "negative": "",
+    "indices": [1, 9],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.47720661759376526,
+        "positive": "",
+        "negative": ""
+      },
+      "Wired": { "neutral": 0.8333581487337748, "positive": "", "negative": "" }
+    }
+  },
+  "Facebook": {
+    "neutral": 0.4611087143421173,
+    "positive": "",
+    "negative": 0.632210910320282,
+    "indices": [1, 9],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.4611087143421173,
+        "positive": "",
+        "negative": ""
+      },
+      "Wired": { "neutral": "", "positive": "", "negative": 0.632210910320282 }
+    }
+  },
+  "Republican": {
+    "neutral": 0.7415972948074341,
+    "positive": 0.699300229549408,
+    "negative": 0.7826105952262878,
+    "indices": [1, 6],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.9457870721817017,
+        "positive": "",
+        "negative": ""
+      },
+      "BBC News": {
+        "neutral": 0.6735340356826782,
+        "positive": 0.699300229549408,
+        "negative": 0.7826105952262878
+      }
+    }
+  },
+  "Katie Britt": {
+    "neutral": 0.8708028793334961,
+    "positive": "",
+    "negative": "",
+    "indices": [1],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.8708028793334961,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "R": {
+    "neutral": 0.9194333553314209,
+    "positive": "",
+    "negative": "",
+    "indices": [1, 9],
+    "media_source": {
+      "The Verge": {
+        "neutral": 0.9713687896728516,
+        "positive": "",
+        "negative": ""
+      },
+      "Wired": { "neutral": 0.8674979209899902, "positive": "", "negative": "" }
+    }
+  },
+  "Americans": {
+    "neutral": 0.5441555976867676,
+    "positive": "",
+    "negative": "",
+    "indices": [2],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.5441555976867676,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Truth Social": {
+    "neutral": 0.6406553983688354,
+    "positive": 0.7429651021957397,
+    "negative": "",
+    "indices": [3, 9],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": 0.5638585090637207,
+        "positive": 0.7429651021957397,
+        "negative": ""
+      },
+      "Wired": { "neutral": 0.7174522876739502, "positive": "", "negative": "" }
+    }
+  },
+  "English": {
+    "neutral": "",
+    "positive": "",
+    "negative": 0.7467509508132935,
+    "indices": [3],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": "",
+        "positive": "",
+        "negative": 0.7467509508132935
+      }
+    }
+  },
+  "Digital World Acquisition": {
+    "neutral": "",
+    "positive": "",
+    "negative": 0.6117907762527466,
+    "indices": [3],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": "",
+        "positive": "",
+        "negative": 0.6117907762527466
+      }
+    }
+  },
+  "DWAC": {
+    "neutral": 0.7457776665687561,
+    "positive": "",
+    "negative": 0.5755940675735474,
+    "indices": [3],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": 0.7457776665687561,
+        "positive": "",
+        "negative": 0.5755940675735474
+      }
+    }
+  },
+  "Trump Media and Technology Group": {
+    "neutral": "",
+    "positive": "",
+    "negative": 0.6631734371185303,
+    "indices": [3],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": "",
+        "positive": "",
+        "negative": 0.6631734371185303
+      }
+    }
+  },
+  "New York": {
+    "neutral": 0.9745142459869385,
+    "positive": "",
+    "negative": "",
+    "indices": [3],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": 0.9745142459869385,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Let": {
+    "neutral": 0.8989242315292358,
+    "positive": "",
+    "negative": "",
+    "indices": [3],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": 0.8989242315292358,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "The New York Times": {
+    "neutral": 0.9605166912078857,
+    "positive": "",
+    "negative": "",
+    "indices": [3],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": 0.9605166912078857,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "SEC": {
+    "neutral": 0.9367615381876627,
+    "positive": "",
+    "negative": "",
+    "indices": [3],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": 0.9367615381876627,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Trump Media": {
+    "neutral": "",
+    "positive": 0.5217875838279724,
+    "negative": "",
+    "indices": [3],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": "",
+        "positive": 0.5217875838279724,
+        "negative": ""
+      }
+    }
+  },
+  "Big Tech": {
+    "neutral": "",
+    "positive": "",
+    "negative": 0.9313340783119202,
+    "indices": [3],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": "",
+        "positive": "",
+        "negative": 0.9313340783119202
+      }
+    }
+  },
+  "Joe Biden": {
+    "neutral": 0.7808759808540344,
+    "positive": "",
+    "negative": 0.9367310404777527,
+    "indices": [3, 6, 7],
+    "media_source": {
+      "Gizmodo.com": {
+        "neutral": 0.7597482204437256,
+        "positive": "",
+        "negative": ""
+      },
+      "BBC News": {
+        "neutral": 0.8020037412643433,
+        "positive": "",
+        "negative": 0.9367310404777527
+      }
+    }
+  },
+  "Georgia Court of Appeals": {
+    "neutral": 0.9668370485305786,
+    "positive": "",
+    "negative": "",
+    "indices": [4],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9668370485305786,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Willis": {
+    "neutral": "",
+    "positive": "",
+    "negative": 0.967048168182373,
+    "indices": [4],
+    "media_source": {
+      "BBC News": {
+        "neutral": "",
+        "positive": "",
+        "negative": 0.967048168182373
+      }
+    }
+  },
+  "US": {
+    "neutral": 0.8551982641220093,
+    "positive": 0.5529235601425171,
+    "negative": "",
+    "indices": [5, 7],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8551982641220093,
+        "positive": 0.5529235601425171,
+        "negative": ""
+      }
+    }
+  },
+  "Get": {
+    "neutral": 0.8598514199256897,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8598514199256897,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "American Samoa": {
+    "neutral": 0.8595013618469238,
+    "positive": "",
+    "negative": "",
+    "indices": [6, 7],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8595013618469238,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Florida": {
+    "neutral": 0.9727425575256348,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9727425575256348,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Alabama": {
+    "neutral": 0.5720720887184143,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.5720720887184143,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Texas": {
+    "neutral": 0.8075313568115234,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8075313568115234,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "California": {
+    "neutral": 0.8571693301200867,
+    "positive": "",
+    "negative": "",
+    "indices": [6, 7],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8571693301200867,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Nikki Haley": {
+    "neutral": 0.7046464681625366,
+    "positive": "",
+    "negative": 0.6452012260754904,
+    "indices": [6, 7],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.7046464681625366,
+        "positive": "",
+        "negative": 0.6452012260754904
+      }
+    }
+  },
+  "North Carolina": {
+    "neutral": 0.9174038648605347,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9174038648605347,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Virginia": {
+    "neutral": 0.8430777430534363,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8430777430534363,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Electability": {
+    "neutral": "",
+    "positive": 0.8255302906036377,
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": "",
+        "positive": 0.8255302906036377,
+        "negative": ""
+      }
+    }
+  },
+  "Haley": {
+    "neutral": 0.8188227415084839,
+    "positive": 0.755484476685524,
+    "negative": 0.7281869649887085,
+    "indices": [6, 7],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8188227415084839,
+        "positive": 0.755484476685524,
+        "negative": 0.7281869649887085
+      }
+    }
+  },
+  "Republicans": {
+    "neutral": 0.6722690463066101,
+    "positive": 0.7022659182548523,
+    "negative": 0.5736955404281616,
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.6722690463066101,
+        "positive": 0.7022659182548523,
+        "negative": 0.5736955404281616
+      }
+    }
+  },
+  "Hillary Clinton": {
+    "neutral": "",
+    "positive": "",
+    "negative": 0.8049287796020508,
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": "",
+        "positive": "",
+        "negative": 0.8049287796020508
+      }
+    }
+  },
+  "Vermont": {
+    "neutral": 0.7719667792320252,
+    "positive": "",
+    "negative": "",
+    "indices": [6, 7],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.7719667792320252,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "South Carolina": {
+    "neutral": 0.8839285373687744,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8839285373687744,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Burlington": {
+    "neutral": 0.8773168325424194,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8773168325424194,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Phil Scott": {
+    "neutral": "",
+    "positive": 0.6522009968757629,
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": "",
+        "positive": 0.6522009968757629,
+        "negative": ""
+      }
+    }
+  },
+  "Democrats": {
+    "neutral": 0.6334913372993469,
+    "positive": 0.6667323708534241,
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.6334913372993469,
+        "positive": 0.6667323708534241,
+        "negative": ""
+      }
+    }
+  },
+  "Super": {
+    "neutral": 0.9164156913757324,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9164156913757324,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "South Carolinian": {
+    "neutral": 0.8731008172035217,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8731008172035217,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Gaza": {
+    "neutral": 0.7617651224136353,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.7617651224136353,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Michigan": {
+    "neutral": 0.8775873482227325,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8775873482227325,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Minnesota": {
+    "neutral": 0.9337372779846191,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9337372779846191,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Minneapolis": {
+    "neutral": 0.9224374890327454,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9224374890327454,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "MN": {
+    "neutral": 0.9541856050491333,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9541856050491333,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "As": {
+    "neutral": 0.924072265625,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": { "neutral": 0.924072265625, "positive": "", "negative": "" }
+    }
+  },
+  "ma Nizam": {
+    "neutral": 0.9457491040229797,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9457491040229797,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Pro": {
+    "neutral": 0.8705316185951233,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.8705316185951233,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Washington": {
+    "neutral": 0.9702237844467163,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9702237844467163,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "anti": {
+    "neutral": "",
+    "positive": "",
+    "negative": 0.7679293751716614,
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": "",
+        "positive": "",
+        "negative": 0.7679293751716614
+      }
+    }
+  },
+  "Getty Images": {
+    "neutral": 0.9356490969657898,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9356490969657898,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Anthony Zurcher": {
+    "neutral": 0.5638148188591003,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.5638148188591003,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "American": {
+    "neutral": 0.9029449820518494,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9029449820518494,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "UK": {
+    "neutral": 0.9595290422439575,
+    "positive": "",
+    "negative": "",
+    "indices": [6],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.9595290422439575,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Mitch McConnell": {
+    "neutral": "",
+    "positive": 0.6834787130355835,
+    "negative": "",
+    "indices": [7],
+    "media_source": {
+      "BBC News": {
+        "neutral": "",
+        "positive": 0.6834787130355835,
+        "negative": ""
+      }
+    }
+  },
+  "Senate": {
+    "neutral": 0.7618076205253601,
+    "positive": "",
+    "negative": "",
+    "indices": [7],
+    "media_source": {
+      "BBC News": {
+        "neutral": 0.7618076205253601,
+        "positive": "",
+        "negative": ""
+      }
+    }
+  },
+  "Meta": {
+    "neutral": "",
+    "positive": "",
+    "negative": 0.6825689673423767,
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": "", "positive": "", "negative": 0.6825689673423767 }
+    }
+  },
+  "Telegram": {
+    "neutral": 0.8465353488922119,
+    "positive": "",
+    "negative": "",
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": 0.8465353488922119, "positive": "", "negative": "" }
+    }
+  },
+  "Dry-Run": {
+    "neutral": 0.6928700804710388,
+    "positive": "",
+    "negative": "",
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": 0.6928700804710388, "positive": "", "negative": "" }
+    }
+  },
+  "Election Day": {
+    "neutral": 0.9057891964912415,
+    "positive": "",
+    "negative": "",
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": 0.9057891964912415, "positive": "", "negative": "" }
+    }
+  },
+  "pro": {
+    "neutral": 0.8306445479393005,
+    "positive": "",
+    "negative": "",
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": 0.8306445479393005, "positive": "", "negative": "" }
+    }
+  },
+  "David Clements": {
+    "neutral": "",
+    "positive": 0.7441060543060303,
+    "negative": "",
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": "", "positive": 0.7441060543060303, "negative": "" }
+    }
+  },
+  "Clement": {
+    "neutral": "",
+    "positive": "",
+    "negative": 0.9577268958091736,
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": "", "positive": "", "negative": 0.9577268958091736 }
+    }
+  },
+  "Dallas": {
+    "neutral": 0.8952615857124329,
+    "positive": "",
+    "negative": "",
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": 0.8952615857124329, "positive": "", "negative": "" }
+    }
+  },
+  "Gateway Pundit": {
+    "neutral": 0.8850492835044861,
+    "positive": "",
+    "negative": "",
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": 0.8850492835044861, "positive": "", "negative": "" }
+    }
+  },
+  "Common Cause": {
+    "neutral": 0.9077032804489136,
+    "positive": "",
+    "negative": "",
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": 0.9077032804489136, "positive": "", "negative": "" }
+    }
+  },
+  "Taylor Swift": {
+    "neutral": "",
+    "positive": 0.7741626501083374,
+    "negative": "",
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": "", "positive": 0.7741626501083374, "negative": "" }
+    }
+  },
+  "YOU": {
+    "neutral": "",
+    "positive": 0.8027915358543396,
+    "negative": "",
+    "indices": [9],
+    "media_source": {
+      "Wired": { "neutral": "", "positive": 0.8027915358543396, "negative": "" }
+    }
+  }
+}

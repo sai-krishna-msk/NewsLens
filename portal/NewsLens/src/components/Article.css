@@ -1,0 +1,83 @@
+/* Define colors as variables */
+:root {
+  --color-positive: green;
+  --color-negative: red;
+  --color-neutral: blue;
+}
+
+.recommended-articles-container {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-between;
+  padding: 1.5em;
+  margin-top: 2rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
+.recommended-article-card {
+  width: 48%;
+  background-color: #f5f5f5;
+  border-radius: 20px;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border: 1px rgb(127, 33, 167) solid;
+}
+
+.recommended-article-card img {
+  width: 90%;
+  height: 300px;
+  padding: 1rem;
+  object-fit: cover;
+  border-radius: 25px;
+}
+
+.recommended-article-card h4 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.recommended-article-card p {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.button-34 {
+  background: #5e5df0;
+  border-radius: 999px;
+  box-shadow: #5e5df0 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: Inter, Helvetica, "Apple Color Emoji", "Segoe UI Emoji", NotoColorEmoji, "Noto Color Emoji", "Segoe UI Symbol", "Android Emoji", EmojiSymbols, -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 9px 19px;
+  margin-top: 20px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+}
+
+.a-text {
+  text-decoration: none;
+  color: #fff;
+}
+
+.article-info {
+  text-align: left;
+  margin-bottom: 1em;
+}
+
+/* Add margin-right to label-score spans */
+.label-score {
+  white-space: nowrap; /* Prevent line breaks */
+  margin-right: 10px; /* Adjust the spacing as needed */
+}

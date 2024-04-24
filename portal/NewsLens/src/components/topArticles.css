@@ -1,0 +1,174 @@
+/* Container for articles */
+.top-articles-container {
+  list-style-type: none;
+  padding: 0;
+  border: 1px solid #ccc;
+  width: 80%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.article-main-container {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  /* border: 1px black solid; */
+  margin: 2em;
+}
+
+.article-main-container h1 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 2em;
+}
+
+/* Each article container */
+.article-container {
+  position: relative; /* Make the container relative for absolute positioning */
+  width: 80%; /* Each item takes up 100% of the container width */
+  box-sizing: border-box; /* Include padding and border in width calculation */
+  margin-bottom: 20px; /* Add some space below each article */
+  margin: 2em;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+
+
+/* Colored tab */
+.article-tab {
+  width: 0;
+  height: 0;
+  border-top: 20px solid transparent; /* Make the tab triangular */
+  border-left: 20px solid; /* Set the color of the tab */
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+/* Individual article */
+.top-articles-item {
+  border: 1px solid black; /* Light gray border */
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Added box-shadow */
+  background-color: #fff; /* White background */
+  position: relative;
+}
+
+/* Content displayed on hover */
+.card-content {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 10px;
+  z-index: 2; /* Set a higher z-index to bring the content in front */
+}
+
+.article-container:hover .card-content {
+  display: block;
+}
+
+/* Font enhancements */
+h1 {
+  font-size: 24px;
+  color: #333; /* Dark gray color */
+  margin-bottom: 20px; /* Add some space below the heading */
+}
+
+.top-articles-item {
+  font-size: 16px;
+  color: #666; /* Medium gray color */
+
+}
+
+.card-content p {
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #323030; /* Light gray color */
+  
+}
+
+.top-articles-item:hover .card-content p {
+  color: #000; /* Change color only on hover */
+  font-family: Poppins, sans-serif; /* Change font only on hover */
+}
+
+.top-articles-item:hover {
+  cursor: pointer;
+}
+
+.card-body {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  padding: 1.5em;
+}
+
+.img-container {
+  
+}
+
+.card-body img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.card-body-content {
+  width: 60%;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+margin: none;
+}
+.card-body-content-text{
+  height: 95%;
+  /* border: 1px solid pink; */
+}
+
+.card-body-content-text p {
+  color: rgb(108, 107, 107);
+  text-align: justify;
+  margin-top: 15px;
+}
+
+.card-body-content-button{
+  display: flex;
+  flex-flow: row-reverse;
+  /* border: 1px solid blue; */
+}
+/* CSS */
+.button-34 {
+  background: #5E5DF0;
+  border-radius: 999px;
+  box-shadow: #5E5DF0 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+}
