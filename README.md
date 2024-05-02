@@ -1,5 +1,5 @@
 ﻿# News Lens
-**A Data-Driven Approach to Analyzing News Article Polarization**
+**A data-driven solution to address and overcome polarization in news.**
 
 *Capstone*
 
