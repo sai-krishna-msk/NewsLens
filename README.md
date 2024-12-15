@@ -15,7 +15,7 @@ This paper outlines the CoNLL-2003 shared task focused on language-independent n
 
 ### MINILM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers
 
-In response to the challenges posed by the large size of pre-trained Transformer models, this paper presents a method for compressing these models through deep self-attention distillation. The approach focuses on distilling the self-attention module of the last Transformer layer from a larger "teacher" model to a smaller "student" model. By utilizing the scaled dot-product of values in the self-attention module as a new form of knowledge, alongside traditional attention distributions, the authors achieve notable reductions in model size while retaining high accuracy. The distilled models maintain over 99% accuracy on challenging tasks such as SQuAD 2.0 and various GLUE benchmark tasks, using only 50% of the parameters and computational power of the original models. This method also shows promise for application to multilingual models, paving the way for more efficient deployment of Transformer-based models in resource-constrained environments (Wang et al., 2020).
+In response to the challenges posed by the large size of pre-trained Transformer models, this paper presents a method for compressing these models through deep self-attention distillation. The approach focuses on distilling the self-attention module of the last Transformer layer from a larger "teacher" model to a smaller "student" model. By utilizing the scaled dot-product of values in the self-attention module as a new form of knowledge, alongside traditional attention distributions, the authors achieve notable reductions in model size while retaining high accuracy. The distilled models maintain over 99% accuracy on challenging tasks such as SQuAD 20 and various GLUE benchmark tasks, using only 50% of the parameters and computational power of the original models. This method also shows promise for application to multilingual models, paving the way for more efficient deployment of Transformer-based models in resource-constrained environments (Wang et al., 2020).
 
 ![Overview of Deep Self-Attention Distillation](images/Aspose.Words.e4ff6b04-2e66-4e9f-a93f-91b29cd5b5c7.001.png)
 
@@ -79,6 +79,9 @@ Our pipeline then incorporates an **NER Tagger**, specifically a BERT model fine
 
 **Target-Dependent Sentiment Classification (TSC)** provides a sentiment score for each entity in each statement considering the nuanced context needed to accurately assess sentiment towards each entity. The TSC model, a RoBERTa model trained on the NewsMTSC dataset, then predicts the sentiment of each entity based on its context window. This step is at the heart of our bias detection methodology, offering insights into how different entities are portrayed within the news articles.
 
+#### Custom TSC Implementation
+Our custom implementation builds upon the NewsMTSC dataset using a BERT-based architecture with a target-specific attention mechanism. The model combines a standard BERT base with a custom attention layer specifically designed for target focus, achieving 81% accuracy across negative, neutral, and positive classifications. The architecture employs a target attention layer to weigh the importance of different parts of the text relative to the target entity, followed by a multi-layer classification head for sentiment prediction. This approach has proven particularly effective for political news content, where sentiment is often subtly expressed through context rather than explicit language.
+
 These snippets contrast conventional sentiment classification with Targeted Sentiment Classification (TSC). While conventional methods offer a single aggregated sentiment score for the entire sentence, TSC allows for targeted sentiment classification for each entity within the sentence. This aggregated sentiment score can serve as a proxy for bias.
 
 ![Targeted Sentiment Classification](images/TSC.png)
@@ -117,6 +120,64 @@ News Lens is a web app with two interfaces. The first presents users with the se
 - Our recommendation engine exhibits optimal performance for political and sports news, suggesting a prevalence of diverse viewpoints within these genres compared to others.
 - While topic modeling is a suitable algorithm for identifying article topics, its effectiveness diminishes as the number of topics increases. Additionally, as an unsupervised algorithm, it struggles with articles containing novel topics, often misclassifying them into existing topics, thereby compromising the system's ability to accurately identify bias.
 - The notable contrast in performance between our system's conventional sentiment analysis model, which provides an overall sentiment of an article, and the targeted sentiment analysis model, capable of discerning sentiment for each entity, underscores the dynamic nature of news content. A single article can evoke a wide spectrum of sentiments towards different entities within it.
+
+## Project Structure
+
+```
+├── CustomTargetDependentSentimentAnalysis/    # Custom sentiment analysis implementation
+│   
+├── End_to_End_Notebook/                       # End-to-end implementation notebooks
+│
+├── Result Analysis/                           # Analysis and evaluation results
+│
+├── portal/                                    # Web application
+│   
+│   
+│
+├── scraping/                                  # News article scraping scripts
+│
+├── topic_modeling/                            # Topic modeling implementation
+│
+├── config/                                    # Configuration files
+│
+├── Research-Papers/                           # Related research papers
+│
+├── images/                                    # Project images and diagrams
+│
+├── requirements.txt                           # Main project dependencies
+└── newslens.yml                              # Environment configuration
+```
+
+
+## Environment Setup
+
+### Setting up Virtual Environment
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/News-Lens.git
+cd News-Lens
+```
+
+2. Create a virtual environment:
+```bash
+python -m venv venv
+```
+
+3. Activate the virtual environment:
+- On macOS/Linux:
+```bash
+source venv/bin/activate
+```
+- On Windows:
+```bash
+.\venv\Scripts\activate
+```
+
+4. Install required packages:
+```bash
+pip install -r requirements.txt
+```
 
 ## Further Improvements
 
